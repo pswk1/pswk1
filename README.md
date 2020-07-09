@@ -5,7 +5,7 @@ Hi, I'm Peter (he/him/his) and I am a Los Angeles-based web developer. If I'm no
 
 - I am currently learning Typescript and how it can be used to write cleaner and more maintainable Javascript code.
 - In addition, I practice algorithms with my fellow boot camp graduates daily. Up next is to learn data structures.
-- I am eager to find a great fit at a team where I may best utilize my skillset to make valuable development contributions.
+- I am eager to find a great fit in a team where I may best utilize my skillset to make valuable development contributions.
 - Below are some projects that I've really enjoyed developing either by myself or in a collaborative effort.
 
 - I may be reached by email at [peeterkang@gmail.com](mailto:peeterkang@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/peterswkang/).
