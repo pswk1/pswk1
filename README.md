@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Peter! Welcome to my Github profile. 👋
 
 <!--
 **pswk1/pswk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
