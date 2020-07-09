@@ -1,4 +1,4 @@
-### Welcome to my Github profile! 👋🏼
+# Welcome to my Github profile! 👋🏼
 
 ## About Me
 Hi, my name is Peter (he/him/his) and I am Los Angeles-based web developer. If I'm not learning and building on my skills as a developer, I can most likely be found nerding out on strength training 🏋🏻‍♂️ and biomechanics 💪🏼 as a former physical therapy technician. Every day I look to build on quality habits and embrace a growth mindset to become the best developer and version of myself possible. 
