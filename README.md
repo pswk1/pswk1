@@ -10,7 +10,8 @@ Hi, I'm Peter (he/him/his) and I am a Los Angeles-based web developer. If I'm no
 - Below are some projects that I've really enjoyed developing either by myself or in a collaborative effort.
 
 ### Let's Connect!
-- I may be reached by email at [peeterkang@gmail.com](mailto:peeterkang@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/peterswkang/).
+- [Email](mailto:peeterkang@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/peterswkang/)
 
 ### Thank you for your time! 
 
