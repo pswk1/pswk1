@@ -13,8 +13,6 @@ Hi, I'm Peter (he/him/his) and I am a Los Angeles-based web developer. If I'm no
 - [Email](mailto:peeterkang@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
 
-### Thank you for your time! 
-
 <!--
 **pswk1/pswk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
