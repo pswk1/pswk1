@@ -11,6 +11,7 @@ Hi, I'm Peter (he/him/his) and I am a Los Angeles-based web developer. If I'm no
 
 ### Let's Connect!
 - [Email](mailto:peeterkang@gmail.com)
+- [Portfolio](https://www.pswk1.dev/)
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
 
 <!--
