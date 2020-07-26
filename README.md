@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/i2ChkFr.gif'>
+<img src='https://i.imgur.com/i2ChkFr.gif' height='300'>
 
 ### About Me
 
