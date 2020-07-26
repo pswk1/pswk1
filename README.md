@@ -1,4 +1,4 @@
-<img src='./gif/pswk1.gif'>
+<img src='https://imgur.com/i2ChkFr'>
 
 ### About Me
 
