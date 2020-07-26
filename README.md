@@ -1,4 +1,4 @@
-<img src='./gif/pswk1.gif>
+<img src='./gif/pswk1.gif'>
 
 ### About Me
 
