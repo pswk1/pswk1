@@ -1,4 +1,6 @@
-<img align='center' src='https://i.imgur.com/i2ChkFr.gif' height='350'>
+<p align='center'>
+    <img src='https://i.imgur.com/i2ChkFr.gif' height='350'>
+</p>
 
 ### About Me
 
