@@ -1,4 +1,4 @@
-<img align='center src='https://i.imgur.com/i2ChkFr.gif' height='350'>
+<img align='center' src='https://i.imgur.com/i2ChkFr.gif' height='350'>
 
 ### About Me
 
