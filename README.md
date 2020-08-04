@@ -9,8 +9,7 @@ Hi, I'm Peter (he/him/his) and I am a Los Angeles-based web developer. If I'm no
 ### Currently
 
 - I am learning Typescript and how it can be used to write cleaner and more maintainable Javascript code, as well as honing my React skills.
-- In addition, I practice algorithms with my fellow boot camp graduates daily. Up next is to learn data structures.
-- I am eager to find a great fit in a team where I may best utilize my skillset to make valuable development contributions.
+- In addition, I practice algorithms & data structures with my fellow boot camp grads daily.
 - Below are some projects that I've thoroughly enjoyed developing either by myself or in a collaborative effort.
 
 ### Let's Connect!
