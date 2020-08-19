@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='https://i.imgur.com/i2ChkFr.gif' height='350'>
+    <img src='https://imgur.com/AX1P9TL' height='350'>
 </p>
 
 ### About Me
@@ -12,25 +12,15 @@ Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. When I'm not 
 - Learning Typescript and how it can be used to write cleaner and more maintainable Javascript code
 - Improving problem-solving skills by practicing algorithms & data structures with my fellow boot camp grads daily
 
-- Below are some projects that I've thoroughly enjoyed developing either by myself or in a collaborative effort.
+### Blog
+
+Check out my blog [here](https://dev.to/pswk1). Here are a couple of posts that I've written:
+
+- [Exploring GraphQL](https://dev.to/pswk1/exploring-graphql-i0i)
+- [Mindset and Encouragement for Devs](https://www.linkedin.com/pulse/mindset-some-encouragement-peter-kang-1c/)
 
 ### Let's Connect!
 
 - [Email](mailto:peeterkang@gmail.com)
 - [Portfolio](https://www.pswk1.dev/)
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
-
-<!--
-**pswk1/pswk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
