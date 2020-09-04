@@ -24,3 +24,5 @@ Check out my blog [here](https://dev.to/pswk1). Here are a couple of posts that 
 - [Email](mailto:peeterkang@gmail.com)
 - [Portfolio](https://www.pswk1.dev/)
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
+
+![Peter's github stats](https://github-readme-stats.vercel.app/api?username=pswk1&theme=solarized-dark&count_private=true)
