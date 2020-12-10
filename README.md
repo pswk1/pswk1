@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. When I'm not learning and building on my skills, I can most likely be found nerding out on strength training 🏋🏻‍♂️ &nbsp; and biomechanics 💪🏼 &nbsp; as a former physical therapy technician. Every day I look to build on quality habits and embrace a growth mindset to become the best developer and version of myself possible. 🤍
+Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. When I'm not learning and building on my skills, I can most likely be found nerding out on strength training 🏋🏻‍♂️ &nbsp; and biomechanics 💪🏼 &nbsp; as a former physical therapy technician.
 
 ### Blog
 
