@@ -4,7 +4,9 @@
 
 ### About Me
 
-Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. When I'm not learning and building on my skills, I can most likely be found nerding out on strength training 🏋🏻‍♂️ &nbsp; and biomechanics 💪🏼 &nbsp; as a former physical therapy technician.
+Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer.  Outside of web development, you can find me geeking out on biomechanics and putting my experience as a physical therapy tech and trainer to use by offering practical support to maximize the long-term health benefits of strength training to those around me.
+
+I am committed to learning from and contributing to an inclusive team. If you are currently looking to fill a role, please feel free to look through my resume or contact me through one of the links below.
 
 ### Let's Connect!
 
