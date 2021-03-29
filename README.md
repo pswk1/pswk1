@@ -4,7 +4,9 @@
 
 ### About Me
 
-Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer.  Outside of web development, you can find me geeking out on biomechanics and putting my experience as a physical therapy tech and trainer to use by offering practical support to maximize the long-term health benefits of strength training to those around me.
+Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. 
+
+Currently, I volunteer as a front-end engineer at Omou, a tutoring management service designed for remote learning. Outside of web development, you can find me geeking out on biomechanics and putting my experience as a physical therapy tech and trainer to use by offering practical support to maximize the long-term health benefits of strength training to those around me.
 
 I am committed to learning from and contributing to an inclusive team. If you are currently looking to fill a role, please feel free to contact me for my resume or  through one of the links below.
 
