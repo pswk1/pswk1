@@ -1,7 +1,3 @@
-<p align='center'>
-    <img src='https://i.imgur.com/AX1P9TL.png'>
-</p>
-
 ### About Me
 
 Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. 
