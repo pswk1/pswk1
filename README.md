@@ -1,8 +1,6 @@
-### About Me
-
 <img src='/assets/imgs/banner.jpeg' alt='profile banner'>
 
-
+## About Me
 Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. 
 
 I'm actively seeking opportunities for frontend engineer/web developer and/or other developer related roles. I bring 1+ yr exp w/ Javascript and React, and a whole lot more. 
@@ -11,7 +9,7 @@ Outside of web development, you can find me geeking out on biomechanics and putt
 
 I am committed to learning from and contributing to an inclusive team. If you are currently looking to fill a role, please feel free to contact me for my resume or  through one of the links below.
 
-### Let's Connect!
+## Let's Connect!
 <p>
     <a href="https://twitter.com/pswk11" alt="Twitter">
       <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="30" height="30">
