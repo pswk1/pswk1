@@ -11,10 +11,9 @@ I am committed to learning from and contributing to an inclusive team. If you ar
 ### Let's Connect!
 
 <p align="center">
-  <i>Let's connect!</i>
-  <hr />
+  <br />
     <a href="https://twitter.com/pswk11" alt="Twitter">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="20">
     </a>
   </p>
 
