@@ -15,4 +15,17 @@ I am committed to learning from and contributing to an inclusive team. If you ar
 - [Portfolio](https://www.pswk1.dev/)
 - [Blog](https://dev.to/pswk1)
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: https://imgur.com/rwYRqn6 (linkedin icon with padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/pswk11
+[2]: https://www.linkedin.com/in/peterswkang/
+
 ![Peter's github stats](https://github-readme-stats.vercel.app/api?username=pswk1&theme=solarized-dark&count_private=true)
