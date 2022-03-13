@@ -19,7 +19,7 @@ I am committed to learning from and contributing to an inclusive team. If you ar
 [![alt text][2.1]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://imgur.com/rwYRqn6 (linkedin icon with padding)
+[2.1]: https://imgur.com/rwYRqn6.png (linkedin icon with padding)
 
 
 <!-- links to your social media accounts -->
