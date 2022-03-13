@@ -18,7 +18,8 @@ I am committed to learning from and contributing to an inclusive team. If you ar
     <a href="https://twitter.com/pswk11" alt="Twitter">
       <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg">
     </a>
-    
+    </p>
+  </p>
 
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
 - [Email](mailto:peeterkang@gmail.com)
