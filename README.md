@@ -15,5 +15,5 @@ I am committed to learning from and contributing to an inclusive team. If you ar
    <a href="https://www.linkedin.com/in/peterswkang/" alt="LinkedIn">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30">
     </a>
-  <br />
+
 ![Peter's github stats](https://github-readme-stats.vercel.app/api?username=pswk1&theme=solarized-dark&count_private=true)
