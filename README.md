@@ -1,5 +1,8 @@
 ### About Me
 
+<img src='/assets/imgs/banner.jpeg' alt='profile banner'>
+
+
 Hi, I'm Peter (he/him/his) and I am a Los Angeles-based developer. 
 
 I'm actively seeking opportunities for frontend engineer/web developer and/or other developer related roles. I bring 1+ yr exp w/ Javascript and React, and a whole lot more. 
