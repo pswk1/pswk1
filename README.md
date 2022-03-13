@@ -16,4 +16,3 @@ I am committed to learning from and contributing to an inclusive team. If you ar
 - [Blog](https://dev.to/pswk1)
 
 ![Peter's github stats](https://github-readme-stats.vercel.app/api?username=pswk1&theme=solarized-dark&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pswk1&repo=spacestagram)](https://github.com/pswk1/spacestagram)
