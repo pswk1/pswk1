@@ -17,4 +17,5 @@ I am committed to learning from and contributing to an inclusive team. If you ar
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30">
     </a>
 </p>
-![Peter's github stats](https://github-readme-stats.vercel.app/api?username=pswk1&theme=solarized-dark&count_private=true)
+
+[Peter's github stats](https://github-readme-stats.vercel.app/api?username=pswk1&theme=solarized-dark&count_private=true)
