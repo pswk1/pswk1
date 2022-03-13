@@ -15,6 +15,9 @@ I am committed to learning from and contributing to an inclusive team. If you ar
     <a href="https://twitter.com/pswk11" alt="Twitter">
       <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="30" height="30">
     </a>
+   <a href="https://www.linkedin.com/in/peterswkang/" alt="LinkedIn">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30">
+    </a>
   </p>
 
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
