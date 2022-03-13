@@ -13,12 +13,12 @@ I am committed to learning from and contributing to an inclusive team. If you ar
 <p align="center">
   <i>Let's connect!</i>
 
-  <p align="center">
    
     <a href="https://twitter.com/pswk11" alt="Twitter">
       <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg">
     </a>
-    </p>
+    
+    
   </p>
 
 - [LinkedIn](https://www.linkedin.com/in/peterswkang/)
